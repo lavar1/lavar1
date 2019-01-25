@@ -1,2 +1,3 @@
 new repository added 
 yum install httpd -y
+systemctl enable httpd
